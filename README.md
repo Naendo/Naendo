@@ -1,1 +1,1 @@
-[Naendo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naendo)(https://github.com/Naendo/github-readme-stats)
+![Naendo's github stats](https://github-readme-stats.vercel.app/api?username=naendo&show_icons=true&theme=radical)

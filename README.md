@@ -1,1 +1,1 @@
-![Naendo's github stats](https://github-readme-stats.vercel.app/api?username=naendo&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
+![Naendo's github stats](https://github-readme-stats.vercel.app/api?username=naendo&show_icons=true&theme=radical&hide=contribs,prs)

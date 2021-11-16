@@ -1,7 +1,7 @@
 
 # Good Day! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
-My name is <strong>Nando</strong> and I'm a software developer. I'm from <img src="https://cdn.countryflags.com/thumbs/austria/flag-400.png" width="20px"> and I currently work as a fullstack developer in coop. with various companies.
+My name is <strong>Nando</strong> and I'm a software developer. I'm from <img src="https://cdn.countryflags.com/thumbs/austria/flag-400.png" width="20px"> and I'm currently working as a fullstack developer in coop. with various companies.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Rider_IDEA-informational?style=flat&logo=rider&logoColor=#FE8E1B&color=#79FE96)

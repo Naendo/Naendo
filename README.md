@@ -13,16 +13,18 @@ My name is <strong>Nando</strong> and I'm a software developer. I'm from <img sr
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Naendo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naendo&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naendo&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&theme=transparent&langs_count=3&count_private=true" />
 </a>
 <a href="https://github.com/Naendo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naendo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Naendo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naendo&theme=transparent&hide_rank=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a" alt="Naendo's GitHub Stats" />
 </a>
 
+<br/>
+
 <a href="https://github.com/Naendo/twitch-net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naendo&repo=twitch-net&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naendo&repo=twitch-net&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&theme=transparent" />
 </a>
 
 <a href="https://github.com/Naendo/SpaceCloud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naendo&repo=SpaceCloud&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naendo&repo=SpaceCloud&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&theme=transparent" />
 </a>
